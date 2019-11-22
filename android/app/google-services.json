@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "624489138598",
+    "firebase_url": "https://hostpital-app.firebaseio.com",
+    "project_id": "hostpital-app",
+    "storage_bucket": "hostpital-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624489138598:android:38076cc504b0f32bd3a767",
+        "android_client_info": {
+          "package_name": "com.example.hospital_service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624489138598-8obe173e6j310fiimsf0budbv5tt3deu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hospital_service",
+            "certificate_hash": "73902b8763cdbfa113f030bf6a602f6f324e572d"
+          }
+        },
+        {
+          "client_id": "624489138598-gc6ck5icndsvca9fnquk2pnn5rharrqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqCjcSpMgPJKrc-3n6UzN_gba5AiYwVW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624489138598-gc6ck5icndsvca9fnquk2pnn5rharrqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
